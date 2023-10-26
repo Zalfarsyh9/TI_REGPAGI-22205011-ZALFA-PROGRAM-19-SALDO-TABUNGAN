@@ -10,6 +10,7 @@ package com.mycompany.latihan19saldo.tabungan.java;
  Nama : Zalfa Rosiyah Riski
  Nim : 22205011
  Prodi : Teknik Infromatika
+ Deskripsi : Membuat program saldo tabungan 
  */
 public class Latihan19SaldoTabunganJava {
 
