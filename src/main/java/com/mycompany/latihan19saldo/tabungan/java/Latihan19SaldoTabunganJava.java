@@ -7,6 +7,9 @@ package com.mycompany.latihan19saldo.tabungan.java;
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski
+ Nim : 22205011
+ Prodi : Teknik Infromatika
  */
 public class Latihan19SaldoTabunganJava {
 
